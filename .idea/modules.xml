@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula05-ProgressBar/Aula05-ProgressBar.iml" filepath="$PROJECT_DIR$/Aula05-ProgressBar/Aula05-ProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula05-ProgressBarProject.iml" filepath="$PROJECT_DIR$/Aula05-ProgressBarProject.iml" />
+    </modules>
+  </component>
+</project>
+
